@@ -24,7 +24,7 @@ ini adalah tampilannya :
  Kemudian atur atribut paragraf, contohnya align. <br>
  nilai untuk atribut align seperti justify, center, left, right.
 
- Kode tag untuk mengatur atribut paragraf adalah `<p align=" ">`
+ Kode tag untuk mengatur atribut paragraf adalah `<p align=" ">` <br>
  tambahkan atribut seperti contoh dibawah ini :
  ```
         <!-- ini paragraf pertama -->
@@ -44,8 +44,8 @@ ini adalah tampilannya :
 
 ### 2. Menambahkan Judul
 Judul memiliki 6 level, mulai dari h1 sampai dengan h6. <br>
-Tambahkan judul dengan `<h1>` sebelum paragraf pertama, dan `<h2>` sebelum paragraf kedua.
-contoh codingnya seperti :
+Tambahkan judul dengan `<h1>` sebelum paragraf pertama, dan `<h2>` sebelum paragraf kedua. <br>
+Contoh codingnya seperti :
  ```
     <!-- judul paragraf pertama -->
       <h1>Belajar Dasar HTML</h1>
@@ -68,7 +68,7 @@ ini adalah tampilannya :
 
 ### 3. Memformat Teks
 Ada beberapa tag yang bisa digunakan untuk memformat teks pada paragraf. <br>
-Diantaranya seperti : `<i>, <u>, <b>, <mark>, <small>`.
+Diantaranya seperti : `<i>, <u>, <b>, <mark>, <small>`. <br>
 contoh codingnya seperti :
  ```
     <!-- judul paragraf pertama -->
@@ -89,6 +89,21 @@ contoh codingnya seperti :
 
 ini adalah tampilannya :
 ![Gambar 3](screenshot/latihan3.PNG) <br>
+
+### 4. Menyisipkan Gambar
+Siapkan gambar yang akan disisipkan pda halaman web, simpan gambar satu folder dengan file html. <br>
+kode untuk menyisipkan gambar adalah : `<img src=" ">`. <br>
+contoh codingnya seperti :
+ ```
+    <!-- sub judul paragraf -->
+      <h3>Menambahkan Gambar</h3>
+        <!-- menambah gambar -->
+        <img src="Logo_UPB.PNG" width="200" title="Logo Universitas Pelita Bangsa">
+```
+<br>
+
+ini adalah tampilannya :
+![Gambar 4](screenshot/latihan3.PNG) <br>
 
 
 
