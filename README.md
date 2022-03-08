@@ -4,7 +4,7 @@
 
 ### 1. Membuat Paragraf
 Kode tag untuk paragraf adalah `<p>`. <br>
-contoh codingnya seperti :
+Contoh codingnya seperti :
  ```
         <!-- ini paragraf pertama -->
         <p>Kami sedang belajar HTML dasar, pada matakuliah pemrograman web
@@ -18,14 +18,14 @@ contoh codingnya seperti :
 ```
 <br>
 
-ini adalah tampilannya :
+Ini adalah tampilannya :
 ![Gambar 1.1](screenshot/latihan1.1.PNG) <br>
  
  Kemudian atur atribut paragraf, contohnya align. <br>
- nilai untuk atribut align seperti justify, center, left, right.
+ Nilai untuk atribut align seperti justify, center, left, right.
 
  Kode tag untuk mengatur atribut paragraf adalah `<p align=" ">` <br>
- tambahkan atribut seperti contoh dibawah ini :
+ Tambahkan atribut seperti contoh dibawah ini :
  ```
         <!-- ini paragraf pertama -->
         <p align="justify">Kami sedang belajar HTML dasar, pada matakuliah pemrograman web
@@ -39,7 +39,7 @@ ini adalah tampilannya :
  ```
 <br>
 
-ini adalah tampilannya :
+Ini adalah tampilannya :
 ![Gambar 1.2](screenshot/latihan1.2.PNG) <br>
 
 ### 2. Menambahkan Judul
@@ -63,13 +63,13 @@ Contoh codingnya seperti :
 ```
 <br>
 
-ini adalah tampilannya :
+Ini adalah tampilannya :
 ![Gambar 2](screenshot/latihan2.PNG) <br>
 
 ### 3. Memformat Teks
 Ada beberapa tag yang bisa digunakan untuk memformat teks pada paragraf. <br>
 Diantaranya seperti : `<i>, <u>, <b>, <mark>, <small>`. <br>
-contoh codingnya seperti :
+Contoh codingnya seperti :
  ```
     <!-- judul paragraf pertama -->
       <h1>Belajar Dasar HTML</h1>
@@ -87,13 +87,13 @@ contoh codingnya seperti :
 ```
 <br>
 
-ini adalah tampilannya :
+Ini adalah tampilannya :
 ![Gambar 3](screenshot/latihan3.PNG) <br>
 
 ### 4. Menyisipkan Gambar
-Siapkan gambar yang akan disisipkan pda halaman web, simpan gambar satu folder dengan file html. <br>
-kode untuk menyisipkan gambar adalah : `<img src=" ">`. <br>
-contoh codingnya seperti :
+Siapkan gambar yang akan disisipkan pada halaman web, simpan gambar satu folder dengan file html. <br>
+Kode untuk menyisipkan gambar adalah : `<img src=" ">`. <br>
+Contoh codingnya seperti :
  ```
     <!-- sub judul paragraf -->
       <h3>Menambahkan Gambar</h3>
@@ -102,8 +102,23 @@ contoh codingnya seperti :
 ```
 <br>
 
-ini adalah tampilannya :
-![Gambar 4](screenshot/latihan3.PNG) <br>
+Ini adalah tampilannya :
+![Gambar 4](screenshot/latihan4.PNG) <br>
+
+## 5. Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1. <br>
+Buat satu file html lagi dengan nama lab1_halaman2.html dan diisi dengan tag html dasar. <br>
+Contoh codingnya seperti :
+ ```
+    <!-- sub judul paragraf -->
+      <h3>Menambahkan Gambar</h3>
+        <!-- menambah gambar -->
+        <img src="Logo_UPB.PNG" width="200" title="Logo Universitas Pelita Bangsa">
+```
+<br>
+
+Ini adalah tampilannya :
+![Gambar 5.1](screenshot/latihan5.1.PNG) <br>
 
 
 
