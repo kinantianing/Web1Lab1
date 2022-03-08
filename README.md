@@ -105,7 +105,7 @@ Contoh codingnya seperti :
 Ini adalah tampilannya :
 ![Gambar 4](screenshot/latihan4.PNG) <br>
 
-## 5. Menambahkan Hyperlink
+### 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1. <br>
 Buat satu file html lagi dengan nama lab1_halaman2.html dan diisi dengan tag html dasar. <br>
 Contoh codingnya seperti :
@@ -120,7 +120,25 @@ Contoh codingnya seperti :
 Ini adalah tampilannya :
 ![Gambar 5.1](screenshot/latihan5.1.PNG) <br>
 
-Berikut adalah tampilan file halaman 2 pada navbar apabila diklik. <br>
+Berikut adalah tampilan file halaman 2 pada navbar apabila diklik : <br>
 ![Gambar 5.2](screenshot/latihan5.2.PNG) <br>
+
+
+
+## Soal
+
+### Jawablah Pertanyaan Berikut
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+
+
+
 
 
