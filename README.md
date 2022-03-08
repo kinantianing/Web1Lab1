@@ -129,21 +129,21 @@ Berikut adalah tampilan file halaman 2 pada navbar apabila diklik : <br>
 
 ### Jawablah Pertanyaan Berikut
 
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? <br>
     Jawab : Ada. <br>
 
-2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya! <br>
     Jawab : Tag `<p>` digunakan untuk membuat paragraf, sedangkan tag `<br>` merupakan break-line digunakan untuk berpindah ke garis selanjutnya. <br>
 
-3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya! <br>
     Jawab : Atribut title digunakan untuk membuat judul gambar, sedangkan atribut alt digunakan untuk mendeskripsikan gambar. <br>
 
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
-proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-    Jawab : Tag `<p>` digunakan untuk membuat paragraf, sedangkan tag `<br>` merupakan break-line digunakan untuk berpindah ke garis selanjutnya. <br>
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <br>
+    Jawab : Dapat disesuaikan dengan jenis gambar, apabila gambar hanya menggunakan salah satu atribut namun terlihat tidak proposional, maka lebih baik menggunakan kedua atribut tersebut. <br>
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
-_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
     Jawab : Atribut _blank digunakan untuk membuka windows baru. <br>
     Atribut _self digunakan apabila target frame adalah frame tempat link berada. <br>
     Atribut _top digunakan apabila target frame adalah windows tempat frame berada. 
