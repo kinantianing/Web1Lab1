@@ -142,7 +142,7 @@ Berikut adalah tampilan file halaman 2 pada navbar apabila diklik : <br>
     Jawab : Ada. <br>
 
 2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya! <br>
-    Jawab : Tag `<p>` digunakan untuk membuat paragraf, sedangkan tag `<br>` merupakan break-line digunakan untuk berpindah ke garis selanjutnya. <br>
+    Jawab : Tag `<p>` digunakan untuk membuat paragraf, sedangkan tag `<br>` merupakan break-line yang digunakan untuk berpindah ke garis selanjutnya. <br>
 
 3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya! <br>
     Jawab : Atribut title digunakan untuk membuat judul gambar, sedangkan atribut alt digunakan untuk mendeskripsikan gambar. <br>
