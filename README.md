@@ -3,12 +3,12 @@
 ## Belajar Tag Dasar HTML
 
 ### 1. Membuat Paragraf
-Kode tag untuk paragraf adalah `<p>`.
+Kode tag untuk paragraf adalah `<p>`. <br>
 contoh codingnya seperti :
  ```
         <!-- ini paragraf pertama -->
-        <p>Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>pemrograman web</b>
-            di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
+        <p>Kami sedang belajar HTML dasar, pada matakuliah pemrograman web
+            di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
             yang kami dapat adalah membuat tampilan sederhana dalam rangka mengenal tag-tag dasar HTML</p>
   
         <!-- ini paragraf kedua -->
@@ -18,18 +18,18 @@ contoh codingnya seperti :
 ```
 <br>
 
-ini adalah tampilannya
+ini adalah tampilannya :
 ![Gambar 1.1](screenshot/latihan1.1.PNG) <br>
  
- Kemudian atur atribut paragraf, contohnya align <br>
+ Kemudian atur atribut paragraf, contohnya align. <br>
  nilai untuk atribut align seperti justify, center, left, right.
 
  Kode tag untuk mengatur atribut paragraf adalah `<p align=" ">`
  tambahkan atribut seperti contoh dibawah ini :
  ```
         <!-- ini paragraf pertama -->
-        <p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>pemrograman web</b>
-            di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
+        <p align="justify">Kami sedang belajar HTML dasar, pada matakuliah pemrograman web
+            di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
             yang kami dapat adalah membuat tampilan sederhana dalam rangka mengenal tag-tag dasar HTML</p>
   
         <!-- ini paragraf kedua -->
@@ -50,6 +50,30 @@ contoh codingnya seperti :
     <!-- judul paragraf pertama -->
       <h1>Belajar Dasar HTML</h1>
         <!-- ini paragraf pertama -->
+        <p align="justify">Kami sedang belajar HTML dasar, pada matakuliah pemrograman web
+            di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
+            yang kami dapat adalah membuat tampilan sederhana dalam rangka mengenal tag-tag dasar HTML</p>
+  
+    <!-- judul paragraf pertama -->
+      <h2>Paragraf Pada HTML</h2>
+        <!-- ini paragraf kedua -->
+        <p align="justify">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+            mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+            tag dasar HTML</p>
+```
+<br>
+
+ini adalah tampilannya :
+![Gambar 2](screenshot/latihan2.PNG) <br>
+
+### 3. Memformat Teks
+Ada beberapa tag yang bisa digunakan untuk memformat teks pada paragraf. <br>
+Diantaranya seperti : `<i>, <u>, <b>, <mark>, <small>`.
+contoh codingnya seperti :
+ ```
+    <!-- judul paragraf pertama -->
+      <h1>Belajar Dasar HTML</h1>
+        <!-- ini paragraf pertama -->
         <p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>pemrograman web</b>
             di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama
             yang kami dapat adalah membuat tampilan sederhana dalam rangka mengenal tag-tag dasar HTML</p>
@@ -64,6 +88,7 @@ contoh codingnya seperti :
 <br>
 
 ini adalah tampilannya :
-![Gambar 2](screenshot/latihan2.PNG) <br>
+![Gambar 3](screenshot/latihan3.PNG) <br>
+
 
 
