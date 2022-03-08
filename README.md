@@ -1,5 +1,10 @@
 # Web1Lab1
 
+**Nama    : Aning Kinanti** <br>
+**NIM     : 312010364** <br>
+**Kelas   : TI.20.A2** <br>
+**Matkul  : Pemrograman Web** <br>
+
 ## Belajar Tag Dasar HTML
 
 ### 1. Membuat Paragraf
