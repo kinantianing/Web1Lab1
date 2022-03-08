@@ -120,5 +120,7 @@ Contoh codingnya seperti :
 Ini adalah tampilannya :
 ![Gambar 5.1](screenshot/latihan5.1.PNG) <br>
 
+Berikut adalah tampilan file halaman 2 pada navbar apabila diklik. <br>
+![Gambar 5.2](screenshot/latihan5.2.PNG) <br>
 
 
