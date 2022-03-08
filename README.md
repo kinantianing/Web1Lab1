@@ -100,13 +100,10 @@ Siapkan gambar yang akan disisipkan pada halaman web, simpan gambar satu folder 
 Kode untuk menyisipkan gambar adalah : `<img src=" ">`. <br>
 Contoh codingnya seperti :
  ```
-    <!-- link navigasi -->
-      <nav>
-        <a href="lab1_tag_dasar.html">DASAR HTML</a>
-        <a target="_self" href="lab1_halaman2.html">HALAMAN 2</a>
-        <a href="http://www.google.com">Halaman Web Google</a>
-      </nav>
-      <hr>
+      <!-- sub judul paragraf -->
+      <h3>Menambahkan Gambar</h3>
+        <!-- menambah gambar -->
+        <img src="Logo_UPB.PNG" width="200" title="Logo Universitas Pelita Bangsa">
 ```
 <br>
 
@@ -118,10 +115,14 @@ Tambahkan hyperlink pada dokumen sebelum heading 1. <br>
 Buat satu file html lagi dengan nama lab1_halaman2.html dan diisi dengan tag html dasar. <br>
 Contoh codingnya seperti :
  ```
-    <!-- sub judul paragraf -->
-      <h3>Menambahkan Gambar</h3>
-        <!-- menambah gambar -->
-        <img src="Logo_UPB.PNG" width="200" title="Logo Universitas Pelita Bangsa">
+    <!-- link navigasi -->
+      <nav>
+        <a href="lab1_tag_dasar.html">DASAR HTML</a>
+        <a target="_self" href="lab1_halaman2.html">HALAMAN 2</a>
+        <a href="http://www.google.com">Halaman Web Google</a>
+      </nav>
+      <hr>
+
 ```
 <br>
 
